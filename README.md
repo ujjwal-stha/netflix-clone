@@ -30,7 +30,7 @@ Netflix Clone app built using React, Firebase and TMDB Database which is used to
 
 Clone this repository
 
-- $ git clone
+- $ git clone https://github.com/ujjwal-stha/netflix-clone.git
 
 Go into the repository
 
